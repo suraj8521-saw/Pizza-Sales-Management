@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\pizzaproj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD97CAD-6675-4AD4-9901-939138354104}|pizzaproj\\pizzaproj.csproj|f:\\pizzaproj\\pizzaproj\\bill2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD97CAD-6675-4AD4-9901-939138354104}|pizzaproj\\pizzaproj.csproj|solutionrelative:pizzaproj\\bill2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD97CAD-6675-4AD4-9901-939138354104}|pizzaproj\\pizzaproj.csproj|f:\\pizzaproj\\pizzaproj\\stock_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BD97CAD-6675-4AD4-9901-939138354104}|pizzaproj\\pizzaproj.csproj|solutionrelative:pizzaproj\\stock_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stock_search.cs [Design]",
+              "DocumentMoniker": "F:\\pizzaproj\\pizzaproj\\stock_search.cs",
+              "RelativeDocumentMoniker": "pizzaproj\\stock_search.cs",
+              "ToolTip": "F:\\pizzaproj\\pizzaproj\\stock_search.cs [Design]",
+              "RelativeToolTip": "pizzaproj\\stock_search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T04:42:56.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bill2.cs",
+              "DocumentMoniker": "F:\\pizzaproj\\pizzaproj\\bill2.cs",
+              "RelativeDocumentMoniker": "pizzaproj\\bill2.cs",
+              "ToolTip": "F:\\pizzaproj\\pizzaproj\\bill2.cs",
+              "RelativeToolTip": "pizzaproj\\bill2.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T04:39:11.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
